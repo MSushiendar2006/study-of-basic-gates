@@ -79,15 +79,15 @@ xnor(xnorgate,a,b);
 endmodule
 
 ```
+## Truth Table:
+![image](https://github.com/user-attachments/assets/90d0e7a0-c52c-4217-b82c-7b607ded40d7)
  
-## Logic symbol:
+
+## RTL:
 ![image](https://github.com/user-attachments/assets/cee032ca-c170-4c41-842e-86c62e32e101)
 
 
-## Truth Table:
-![image](https://github.com/user-attachments/assets/90d0e7a0-c52c-4217-b82c-7b607ded40d7)
-
-## RTL realization Output:
+## Output:
 ![image](https://github.com/user-attachments/assets/ba19d4bc-0408-4ef6-b3e7-64f9cef567b8)
 
 ## Result:
